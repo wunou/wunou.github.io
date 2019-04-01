@@ -8,8 +8,12 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
++ All about the human, especially human's emotion
++ AI
++ Deep Learning
++ NLP
++ Image Processing
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wunou.ai@gmail.com](mailto:wunou.ai@gmail.com)
