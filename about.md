@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+*I'm the one interested in understanding human and
+want to help people and myself happier 
+by using computer science.*
 
 ### More Information
 
