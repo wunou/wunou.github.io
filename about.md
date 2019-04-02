@@ -10,11 +10,11 @@ by using computer science.*
 
 ### More Information
 
-&nbsp;+ All about the human, especially human's emotion
-&nbsp;+ AI
-&nbsp;+ Deep Learning
-&nbsp;+ NLP
-&nbsp;+ Image Processing
+  + All about the human, especially human's emotion
+  + AI
+  + Deep Learning
+  + NLP
+  + Image Processing
 
 ### Contact me
 
