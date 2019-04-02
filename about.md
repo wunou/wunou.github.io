@@ -4,17 +4,17 @@ title: About
 permalink: /about/
 ---
 
-**I'm the one interested in understanding human and  
+*I'm the one interested in understanding human and  
 want to help people and myself happier  
-by using computer science.**
+by using computer science.*
 
 ### More Information
 
-  + All about the human, especially human's emotion
-  + AI
-  + Deep Learning
-  + NLP
-  + Image Processing
+&nbsp;+ All about the human, especially human's emotion
+&nbsp;+ AI
+&nbsp;+ Deep Learning
+&nbsp;+ NLP
+&nbsp;+ Image Processing
 
 ### Contact me
 
